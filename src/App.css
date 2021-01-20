@@ -6,6 +6,13 @@
   height: 40vmin;
 }
 
+.style {
+  display: "block";
+  margin-left: "auto";
+  margin-right: "auto";
+  width: "50%";
+}
+
 .App-header {
   background-color: #ffffff;
   min-height: 100vh;

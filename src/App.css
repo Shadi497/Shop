@@ -13,20 +13,17 @@ h1 {
   text-align: center;
   height: 75%;
   width: 100%;
-}
-.style {
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-  height: 70%;
+  border: #000000;
 }
 
 .cl {
   padding: 50px;
   font-size: 25px;
-  font-weight: bold;
   line-height: 50px;
+}
+
+.txt {
+  font-weight: bold;
 }
 
 .App-header {

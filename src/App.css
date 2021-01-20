@@ -6,13 +6,27 @@
   height: 40vmin;
 }
 
+h1 {
+  text-decoration: underline;
+}
+.img1 {
+  text-align: center;
+  height: 75%;
+  width: 100%;
+}
 .style {
   text-align: center;
-  display: block;
   justify-content: center;
   align-items: center;
   margin: auto;
-  width: 100%;
+  height: 70%;
+}
+
+.cl {
+  padding: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 50px;
 }
 
 .App-header {
